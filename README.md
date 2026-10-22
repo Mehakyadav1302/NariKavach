@@ -154,11 +154,11 @@ SafeHer India uses a curated color palette designed to evoke a sense of **peace,
 
 ## 👨‍💻 Developer Information
 
-**Built with ❤️ by Priyansh Patel**
+**Built with ❤️ by Mehak Yadav**
 *Coding Gita X Swaminarayn University*
 
-- **GitHub**: [@PriyanshCG](https://github.com/PriyanshCG)
-- **Email**: priyansh30407@gmail.com
+- **GitHub**: (https://github.com/Mehakyadav1302)
+- **Email**: mehakyadav564@gmail.com
 
 ---
 
